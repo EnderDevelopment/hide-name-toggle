@@ -1,0 +1,8 @@
+name: HideNameTag
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+commands:
+  hide:
+    description: Toggle player nametags for yourself.
+    usage: /hide name
